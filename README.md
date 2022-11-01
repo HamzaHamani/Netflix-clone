@@ -3,7 +3,7 @@ I tried to clone netflix , i used new stuff on this project, i used new library 
 Its not resposible and optimazed yet , ll try to update it on the fututre 
 hope u like it
 
-here is a link for the website :https://netflixtry.netlify.app/
+here is a link for the website :https://netflixtry.netlify.app/<br/>
 screenshot👇👇
 
 
