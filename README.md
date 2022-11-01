@@ -1,6 +1,6 @@
 # Netflix-clone
 
-⚠⚠  Its not resposible and optimazed yet , ll try to update it on the fututre ⚠⚠ <br/>
+⚠⚠  Its not resposible and optimazed yet , its working only for desktop , i will try to update it on the fututre ⚠⚠ <br/>
 <br/>
 <br/>
 I tried to clone netflix <br/>
