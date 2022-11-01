@@ -1,3 +1,3 @@
 # Netflix-clone
 
-![Screenshot](netflix.png)
+![Screenshot](netflx.png)
