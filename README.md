@@ -4,9 +4,11 @@
 <br/>
 <br/>
 I tried to clone netflix <br/>
-<h3> i implemented some new features: </h3></br>
-<ul> <li> the cart</li> <li> smooth effect</li> <li> sctore lcoation on the map </li> <li>more</li>  </ul>
-i used new stuff on this project, like new library called swiper.js  and i tried new things with javascript and some styling with css <br/>
+<h2> i implemented some new features: </h2></br>
+<ul> <li> content slider with javascript</li> <li> smooth effects</li> <li> i used some new libraries </li> <li>and more</li>  </ul></br>
+<h2> upcoming  updates (soon): </h2></br>
+<ul> <li> responsable for all devices </li> <li> optimazed</li> <li>  </ul></br>
+this is a demo im gonna update it soon.  <br/>
 hope u like it <br/>
 
 here is a link for the website :https://netflixtry.netlify.app/<br/>
