@@ -72,3 +72,8 @@ imgs.forEach((img) => {
     current.classList.remove("content-hidden");
   });
 });
+
+window.addEventListener("load", () => {
+  document.querySelector(".preloader").style.display = "none";
+  document.body.style.overflow = "unset";
+});
